@@ -1,0 +1,6 @@
+{
+  "name": "FunnelFlow Quota Guard",
+  "description": "Phễu phát triển AI 3 bước và bảo vệ hạn mức Antigravity, tối ưu Prompt và bàn giao phiên đa tài khoản không gián đoạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
